@@ -81,7 +81,7 @@ img {
 }
 
 .background {
-  background-image: url('assets/img/background-plus.png');
+  background-image: url('../img/background-plus.png');
   background-position-x: 72%;
   background-size: cover;
   background-repeat: no-repeat;
